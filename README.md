@@ -31,7 +31,7 @@ The system separates workplace support from crisis-resource retrieval. Team
 telemetry is never sent to The Bridge Agent. Only a manager-confirmed country,
 preferred language, and stated concern cross the escalation boundary.
 
-![MindBridge agent architecture](assets/mindbridge-architecture.png)
+![MindBridge agent architecture](assets/mindbridge-readme-diagram.png)
 
 <p align="center"><em>WorkWell catches early. The Bridge catches crisis.</em></p>
 
@@ -245,7 +245,8 @@ MindBridge-Agents-League/
 ├── data/
 │   └── helplines.csv         # Reviewed five-country demonstration dataset
 ├── assets/
-│   └── mindbridge-architecture.png
+│   ├── mindbridge-readme-diagram.png
+│   └── mindbridge-presentation-diagram.png
 ├── tests/
 │   ├── test_app.py
 │   ├── test_bridge_agent.py
