@@ -18,6 +18,14 @@ a private, non-diagnostic check-in. When a manager confirms that a situation
 needs crisis-resource support, The Bridge Agent uses Microsoft Foundry IQ to
 return one grounded, location-aware recommendation.
 
+## Why This Matters
+
+Suicide and mental-health crises often become visible only after opportunities
+for early support have already been missed. MindBridge demonstrates how AI
+agents can help organizations notice workplace-pattern changes earlier,
+encourage private human conversations, and connect people to verified crisis
+resources without diagnosing, profiling, or replacing professional care.
+
 > **Important:** All people, signals, and workplace data shown are synthetic demo data. MindBridge does not diagnose mental health conditions.
 
 > **Crisis notice:** MindBridge is a hackathon prototype, not a replacement for
